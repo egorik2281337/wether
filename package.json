@@ -1,0 +1,19 @@
+{
+  "name": "weather_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "10.15.3"
+  },
+  "author": "Egor Skorohodov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "spiced-pg": "^1.0.0"
+  }
+}
